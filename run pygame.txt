@@ -1,0 +1,3 @@
+cd C:\Users\Antonio\pygame
+myvenv\Scripts\activate
+python -m idlelib.idle
